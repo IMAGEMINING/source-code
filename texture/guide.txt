@@ -1,0 +1,16 @@
+m_fEnergy, //Angular Second Moment Feature(ASM)
+m_fContrast, //Contrast
+m_fHomogeneity, //Inverse Difference Moment(IDM)
+m_fEntropy, //Entropy
+m_fVariance, //Variance
+m_fSumAver, //Sum Average
+m_fSumEntr, //Sum Entropy 
+m_fDiffEntr, //Difference Entropy
+m_fCorrelation, //Correlation
+m_fSumVri, //Sum Variance
+m_DiffVari, //Difference Variance
+m_flnMeaCor1, //Information Measures of Correlation Feature
+m_flnMeaCor2; //Information Measures of Correlation Feature
+함수(함수명 : haralick)를 실행후 위의 13개 특징에 대한 변수를 출력 할것 
+
+예)printf("%f");
