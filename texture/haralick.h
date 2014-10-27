@@ -1,4 +1,7 @@
 
+#include <opencv\highgui.h>
+#include <opencv\cvaux.h>
+#include <opencv\cv.h>
 void inline UpdatePixel ( int x1 , int y1 , int x2 , int y2);
 int normal;
 int img_height;
